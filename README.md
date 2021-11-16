@@ -5,3 +5,5 @@ https://guide.elm-lang.jp/install/elm.html
 `elm reactor`
 ## 3.
 exposed at localhost:8080
+## 4.
+go index.html
